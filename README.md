@@ -11,7 +11,7 @@ against the real paper text.
 | Person | Role | GitHub |
 |---|---|---|
 | Mansha (Person 1) | Core architecture, Orchestrator, team lead | @Mansha777 |
-| Person 2 | Search, Reader, sources, PDF parsing, vector store | @username |
+| Angel | Search, Reader, sources, PDF parsing, vector store | @akansal307 |
 | Person 3 | Analyst ML module, embeddings, clustering, experiments | @username |
 | Person 4 | Critic, Writer, Streamlit dashboard, report and demo | @username |
 
